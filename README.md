@@ -19,4 +19,4 @@ SolanaBot is a backend application that provides tools to interact with the Sola
 ![text](https://github.com/user-attachments/assets/3ae73f68-af9d-41ab-b95c-bf9031a47c71)
 
 - Get Balance :
-![image](https://github.com/user-attachments/assets/a47eb931-c38b-4c8f-ade3-53d96ce2b09d)
+![text](https://github.com/user-attachments/assets/a47eb931-c38b-4c8f-ade3-53d96ce2b09d)
