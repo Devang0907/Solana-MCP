@@ -7,8 +7,9 @@ SolanaBot is a backend application that provides tools to interact with the Sola
 - **Get Balance**: Retrieve the SOL balance of a given public key.
 - **Send SOL**: Transfer SOL from the sender's account to a specified recipient.
 
-## Prerequisites
+## Required
 - A Solana wallet.
+- Claude Desktop
 
 ## setup
 - Create a .env file in the root directory.
