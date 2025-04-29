@@ -15,12 +15,22 @@ SolanaBot is a backend application that provides tools to interact with the Sola
 - Create a .env file in the root directory.
 - Add your Solana wallet private key in the following format:
 ``` PRIVATE_KEY= Your_key```
+- Edit claude_desktop_config as :
+``` {
+  "mcpServers": {
+    "solana": {
+      "command": PATH_OF_NODE,
+      "args": [
+        PATH_OF_INDEX.JS
+      ]
+    }
+  }
+}
+```
 
-- Send solana:
+## Send solana:
 ![text](https://github.com/user-attachments/assets/3ae73f68-af9d-41ab-b95c-bf9031a47c71)
 
 
-
-
-- Get Balance :
+## Get Balance :
 ![text](https://github.com/user-attachments/assets/a47eb931-c38b-4c8f-ade3-53d96ce2b09d)
