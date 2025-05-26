@@ -6,6 +6,7 @@ SolanaBot is a backend application that provides tools to interact with the Sola
 
 - **Get Balance**: Retrieve the SOL balance of a given public key.
 - **Send SOL**: Transfer SOL from the sender's account to a specified recipient.
+- **Airdrop SOL**: Airdrop some solana to given public key.
 
 ## Required
 - A Solana wallet.
